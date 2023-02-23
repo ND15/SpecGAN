@@ -15,12 +15,14 @@ SpecGAN is the frequency domain audio generation model. It uses spectrograms as 
 - Normalizing each frequency bin to have zero mean and unit variance
 
 ## My Results
-|                  0                  |                 100                 |                 200                 |                 300                 |                 400                 |
-|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-| ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | 
-| ![](images/generated_epoch_0/1.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) |
-| ![](images/generated_epoch_0/2.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) |
-| ![](images/generated_epoch_0/3.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) |
+|                  0                  |                  100                  |                  200                  |                  300                  |                  400                  |
+|:-----------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_100/0.png) | ![](images/generated_epoch_200/0.png) | ![](images/generated_epoch_300/0.png) | ![](images/generated_epoch_400/0.png) | 
+| ![](images/generated_epoch_0/1.png) | ![](images/generated_epoch_100/1.png) | ![](images/generated_epoch_200/1.png) | ![](images/generated_epoch_300/1.png) | ![](images/generated_epoch_400/1.png) |
+| ![](images/generated_epoch_0/2.png) | ![](images/generated_epoch_100/2.png) | ![](images/generated_epoch_200/2.png) | ![](images/generated_epoch_300/2.png) | ![](images/generated_epoch_400/2.png) |
+| ![](images/generated_epoch_0/3.png) | ![](images/generated_epoch_100/3.png) | ![](images/generated_epoch_200/3.png) | ![](images/generated_epoch_300/3.png) | ![](images/generated_epoch_400/3.png) |
+| ![](images/generated_epoch_0/4.png) | ![](images/generated_epoch_100/4.png) | ![](images/generated_epoch_200/4.png) | ![](images/generated_epoch_300/4.png) | ![](images/generated_epoch_400/4.png) |
+
 
 
 
