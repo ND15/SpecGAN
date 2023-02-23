@@ -23,8 +23,6 @@ SpecGAN is the frequency domain audio generation model. It uses spectrograms as 
 | ![](images/generated_epoch_0/3.png) | ![](images/generated_epoch_100/3.png) | ![](images/generated_epoch_200/3.png) | ![](images/generated_epoch_300/3.png) | ![](images/generated_epoch_400/3.png) |
 | ![](images/generated_epoch_0/4.png) | ![](images/generated_epoch_100/4.png) | ![](images/generated_epoch_200/4.png) | ![](images/generated_epoch_300/4.png) | ![](images/generated_epoch_400/4.png) |
 
-**_NOTE:_**  The training is not yet completed and the results will be updated soon.
-
 
 ## Evaluation and Results
 The authors use the inception score and nearest neighbor comparisons for quantitative evaluation and human judgment for qualitative evaluation when assessing the quality of the models. The phase shuffle, which was presented in this paper, was thought to be a valuable addition to the WaveGAN model, whereas in SpecGAN it did not achieve very significant results. SpecGAN had a better performance than WaveGAN when it came to quantitative measures, but WaveGAN was the better choice when it came to qualitative measures.
@@ -37,3 +35,5 @@ The authors use the inception score and nearest neighbor comparisons for quantit
 4. https://medium.com/octavian-ai/a-simple-explanation-of-the-inception-score-372dff6a8c7a
 
 [1]: https://arxiv.org/abs/1802.04208
+
+**_NOTE:_**  The training is not yet completed and the results will be updated soon. This is a work in progress. 
