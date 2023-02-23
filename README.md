@@ -14,6 +14,14 @@ SpecGAN is the frequency domain audio generation model. It uses spectrograms as 
 - Scaling amplitude values logarithmically to better align with human perception
 - Normalizing each frequency bin to have zero mean and unit variance
 
+## My Results
+|              0              |             100             |             200             |             300             |             400             |
+|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+| ![](images/generated_epoch_0/0.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | 
+| ![](images/generated_epoch_0/1.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) |
+| ![](images/generated_epoch_0/2.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) |
+| ![](images/generated_epoch_0/3.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) |
+
 
 ## Evaluation and Results
 The authors use the inception score and nearest neighbor comparisons for quantitative evaluation and human judgment for qualitative evaluation when assessing the quality of the models. The phase shuffle, which was presented in this paper, was thought to be a valuable addition to the WaveGAN model, whereas in SpecGAN it did not achieve very significant results. SpecGAN had a better performance than WaveGAN when it came to quantitative measures, but WaveGAN was the better choice when it came to qualitative measures.
