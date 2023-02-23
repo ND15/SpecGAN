@@ -15,12 +15,13 @@ SpecGAN is the frequency domain audio generation model. It uses spectrograms as 
 - Normalizing each frequency bin to have zero mean and unit variance
 
 ## My Results
-|              0              |             100             |             200             |             300             |             400             |
-|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-| ![](images/generated_epoch_0/0.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | 
-| ![](images/generated_epoch_0/1.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) |
-| ![](images/generated_epoch_0/2.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) |
-| ![](images/generated_epoch_0/3.png) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) | ![](https://bit.ly/3XV2HE3) |
+|                  0                  |                 100                 |                 200                 |                 300                 |                 400                 |
+|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+| ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | 
+| ![](images/generated_epoch_0/1.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) |
+| ![](images/generated_epoch_0/2.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) |
+| ![](images/generated_epoch_0/3.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) | ![](images/generated_epoch_0/0.png) |
+
 
 
 ## Evaluation and Results
