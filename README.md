@@ -23,7 +23,7 @@ SpecGAN is the frequency domain audio generation model. It uses spectrograms as 
 | ![](images/generated_epoch_0/3.png) | ![](images/generated_epoch_100/3.png) | ![](images/generated_epoch_200/3.png) | ![](images/generated_epoch_300/3.png) | ![](images/generated_epoch_400/3.png) |
 | ![](images/generated_epoch_0/4.png) | ![](images/generated_epoch_100/4.png) | ![](images/generated_epoch_200/4.png) | ![](images/generated_epoch_300/4.png) | ![](images/generated_epoch_400/4.png) |
 
-
+**_NOTE:_**  The training is not yet completed and the results will be updated soon.
 
 
 ## Evaluation and Results
