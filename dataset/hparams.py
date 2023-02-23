@@ -1,0 +1,19 @@
+import os
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+import tensorflow as tf
+
+SAMPLING_RATE = 22050
+N_FFT = 2048
+WIN_LENGTH = 352
+HOP_SIZE = 176
+
+MIN_LEVEL_DB = -80.0
+MAX_LEVEL_DB = 0.0
+N_MEL_CHANNELS = 128
+WINDOW = 'hann'
+
+BUFFER_SIZE = 1000
+BATCH_SIZE = 32
+AUTOTUNE = tf.data.experimental.AUTOTUNE
+
